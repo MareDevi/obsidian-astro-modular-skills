@@ -11,3 +11,7 @@ Add the contents of this repo to a `/.claude` folder in the root of your Obsidia
 - [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) `.md`
 - [Obsidian Bases](https://help.obsidian.md/bases/syntax) `.base`
 - [JSON Canvas](https://jsoncanvas.org/) `.canvas`
+
+### Optimize content for Astro Modular blog theme
+
+- [Astro Modular](https://github.com/davidvkimball/astro-modular) - Blog publishing, themes, Vault CMS integration
